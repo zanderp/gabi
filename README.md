@@ -17,7 +17,7 @@
  ## 3. Cand se deschide aplicatia
  Cand se deschide aplicatia vom folosi un loader [LOADER]( http://imgur.com/8YsAmq3 ) pana se incarca informatia pentru stiri, nu vom afisa mai mult de 10 stiri la inceput, iar cand efectuam scroll vom afisa stire dupa stire pana cand nu vor mai fi stiri disponibile si vom afisa un mesaj (de genul No more news for now, add a new rss link or wait until tomorrow).
 
- 4. Tehnologii folosibile (this is my commment ::: wtf?????):
+ ## 4. Tehnologii folosibile (this is my commment ::: wtf?????):
   + Html
   + Css
   + Javascript( jQuery, EmberJs, Angular)
